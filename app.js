@@ -42,11 +42,6 @@ class store {
 class UI {
   static displayBooks() {
     const books = store.getBooks();
-
-    //  after that you have set up the local storage
-    // set const books = store.getBooks();
-    // delete the stored books array
-
     books.forEach((book) => UI.addBookToList(book));
   }
 
