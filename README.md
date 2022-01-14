@@ -31,9 +31,8 @@ cd BookCollection-management-program in the terminal.
 This project has been  finished and deployed.
 
 ## Screenshoots
-![Screenshot (77)](https://user-images.githubusercontent.com/90222110/149329933-d60febc9-3a6d-4e1d-99d2-14568dd28efd.png)
-![Screenshot (78)](https://user-images.githubusercontent.com/90222110/149329962-0fca49b4-9a4f-4dfc-a458-1f821175a9fc.png)
-![Screenshot (79)](https://user-images.githubusercontent.com/90222110/149329986-6ce4be56-60e7-4af2-9eb3-f13aa241f0a4.png)
+![Screenshot (106)](https://user-images.githubusercontent.com/90222110/149534687-0aa9f0b6-da24-47bb-b885-1555f653d6a2.png)
+
 
 
 ## Live Demo link
