@@ -12,19 +12,19 @@ class Book {
 // Store class
 class store {
   static getBooks() {
-    let books;
-    if (localStorage.getItem('books') === null) {
-      books = [];
+    let bookstore;
+    if (localStorage.getItem('bookstore') === null) {
+      bookstore = [];
     } else {
-      books = JSON.parse(localStorage.getItem('books'));
+      bookstore = JSON.parse(localStorage.getItem('bookstore'));
     }
-    return books;
+    return bookstore;
   }
 
   static addBooks(book) {
     const books = store.getBooks();
     books.push(book);
-    localStorage.setItem('books', JSON.stringify(books));
+    localStorage.setItem('bookstore', JSON.stringify(books));
   }
 
   static removeBooks(isbn) {
@@ -34,7 +34,7 @@ class store {
         books.splice(index, 1);
       }
     });
-    localStorage.setItem('books', JSON.stringify(books));
+    localStorage.setItem('bookstore', JSON.stringify(books));
   }
 }
 
