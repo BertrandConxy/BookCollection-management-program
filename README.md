@@ -1,13 +1,14 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Awesome Books.
+
+# Program: Book Collection management program.
 > This is a book collection management web application which will help the user to add book with the Title and the Author to the books collection
 and also remove any book from the collection. In addition, he/she will be able to see the book list in the collection on the landing page.
 
 
 ## Built With
 
-- HTML and CSS 
+- HTML
+- Bootstrap
 - plain Javascript
 
 ## How to use and run this project
@@ -16,11 +17,11 @@ and also remove any book from the collection. In addition, he/she will be able t
 
 -Clone this repository with
 
-git clone https://github.com/BertrandConxy/Awesome-books.git using your terminal or command line.
+git clone https://github.com/BertrandConxy/BookCollection-management-program.git using your terminal or command line.
 
 -Change to the project directory by entering :
 
-cd The-Portfolio in the terminal.
+cd BookCollection-management-program in the terminal.
 
 -run code . to open it in vscode
 
@@ -36,7 +37,7 @@ This project has been  finished and deployed.
 
 
 ## Live Demo link
- https://bertrandconxy.github.io/Awesome-books/
+ https://bertrandconxy.github.io/BookCollection-management-program/
 
 ## Issues
 
@@ -44,7 +45,7 @@ Up to now, there are no issues with it.
 
 Here is the link to the Issues tab:
 
-https://github.com/BertrandConxy/Awesome-books/issues
+https://github.com/BertrandConxy/BookCollection-management-program/issues
 
 ## Authors
 
@@ -53,14 +54,6 @@ https://github.com/BertrandConxy/Awesome-books/issues
 - GitHub: [@BertrandConxy](https://github.com/BertrandConxy)
 - Twitter: [@Bconxy](https://twitter.com/Bconxy)
 - LinkedIn: [Bertrand Mutangana Ishimwe](https://www.linkedin.com/in/bertrand-mutangana-024905220/)
-
-
-👤 **Butler Shimaluwani**
-
-- GitHub: [@ButlerMuwo](https://github.com/butlermuwo)
-- Twitter: [@ButlerMuwo](https://twitter.com/ButlerMuwo)
-- LinkedIn: [@ButlerMuwo](https://www.linkedin.com/in/butler-shimaluwani-41a680159/)
-
 
 
 ## Show your support
